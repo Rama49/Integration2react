@@ -11,3 +11,152 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* =============================navbar============================ */
+.bar{
+  background-color: #252B42;
+}
+.brand{
+  padding-left: 200px;
+  font-size: 30px;
+  font-weight: 700;
+}
+.bare{
+  padding-right: 600px;
+  font-weight: 700;
+  font-size: 15px;
+}
+ .btnlien{
+  position: absolute;
+  right: 300px;
+ } 
+ .navbar{
+  margin-bottom: 200px;
+ }
+ .login{
+   background-color: #252B42;
+   font-size: 15px;
+   border: none;
+   font-weight: bold;
+ }
+ .join{
+  background-color: #23A6F0;
+  border-radius: 5px;
+ }
+ .welcome{
+  font-size: 20px;
+  text-decoration: none;
+ }
+ .textnav{
+  font-size: 20px;
+ }
+ .quote{
+  background-color: #23A6F0;
+  font-weight: 700px;
+ }
+ .learn{
+  background-color: #252B42;
+  color: #23A6F0;
+  border: 1px solid #23A6F0;
+ }
+ .hr{
+  color: red;
+  width: 50px;
+  /* height: 50px; */
+ }
+ .hre{
+  color: white;
+  width: 50px;
+ }
+ 
+/* =========================section packages======================== */
+.img1{
+  position: relative;
+  bottom: 53px;
+  left: 40px;
+}
+.img2{
+  position: relative;
+  left: 40px;
+  bottom: 80px;
+}
+.tiltepack{
+  font-weight: 700;
+}
+.textpack{
+  font-size: 20px;
+}
+.btnpack{
+  background-color: white;
+  border: none;
+  color: blue;
+}
+/* =========================Education============================== */
+
+.btnedu{
+  background-color: white;
+  border: none;
+  color: blue;
+}
+ .tag{
+  position: relative;
+  bottom: 120px;
+  right: 230px;
+}
+.ceur{
+  position: relative;
+  bottom: 30px;
+  right: 110px;
+  background-color: white;
+  border-radius: 50%;
+}
+.panie{
+  position: relative;
+  top: 135px;
+  right: 200px;
+  background-color: white;
+  border-radius: 50%;
+}
+.vu{
+  position: relative;
+  bottom: 29px;
+  background-color: white;
+  border-radius: 50%;
+} 
+.morle {
+  background-color: #23A6F0;
+  color: white;
+  border-radius: 25%;
+  border: none;
+}
+.une{
+  margin: 0px !important;
+}
+/* ================================= */
+.exper{
+  border-radius: 50%;
+  width: 150px;
+}
+/* ===============product=================== */
+.feat{
+  font-weight: 700;
+  font-size: 50px;
+}
+.blem{
+  font-size: 22px;
+}
+.cribe{
+  background-color:#23A6F0;
+  color: white;
+  border: 1px solid #23A6F0;
+}
+/* ===================footer=================== */
+.footer{
+  background-color: #252B42;
+}
+.us{
+  color: white;
+  text-decoration: #252B42;
+}
+.vice{
+  color: #23A6F0; 
+}
