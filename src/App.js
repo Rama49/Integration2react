@@ -10,11 +10,11 @@ function App() {
   return (
     <section className='container-fluid'>
        <NavBar />
-       <Packages />
+        <Packages />
        <Education />
-       <Expert />
-       <Product />
-       <Footer />
+      <Expert />
+        <Product />
+      <Footer />
     </section>
   )
 }

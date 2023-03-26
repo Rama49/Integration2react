@@ -6,7 +6,7 @@ import Coolicon2 from "./image/coolicon1.png";
     
     const NavBar = () => {
       return (
-        <section className='bar mb-5 text-white'>
+        <section className='bar mb-5 text-white container-fluid'>
             <Navbar expand="md" className='navbar' >
           <Navbar.Brand href="/">
             <span className='text-white brand'> BrandName</span>

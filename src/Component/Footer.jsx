@@ -3,7 +3,7 @@ import Instagram from "./image/instagram.png"
 import twiter from "./image/twiter.png"
 const Footer = () =>{
     return(
-        <div className="row footer text-white py-5 bold mt-5">
+        <div className="row footer text-white py-5 bold mt-5 ">
             <div className="col-lg-3 col-md-6 col-sm-12">
                 <h1>Get in touch</h1>
                 <p>the quick fox jumps over the lazy dog</p>

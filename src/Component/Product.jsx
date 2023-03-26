@@ -1,6 +1,6 @@
 const Product = () =>{
     return(
-        <section className="product text-center mb-5">
+        <section className="product text-center mb-5 container">
             <p className="vice">Practice Advice</p>
             <h1 className="feat">Featured Products</h1>
             <p className="blem">Problems trying to resolve the conflicts between <br /> the two major realms of Classical physics: Newtonian mechanics</p>

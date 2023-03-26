@@ -3,7 +3,7 @@ import testmonial2 from './image/testimonial2.png'
 import etoile from './image/etoile.png'
 const Expert = () => {
     return(
-        <section className="expert text-center">
+        <section className="expert text-center mt-5">
             <p className='vice'>Practice Advice</p>
             <h1>Our Experts Teacher</h1>
             <p>Problems trying to resolve the conflicts between the two major realmsof Classical
