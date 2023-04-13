@@ -436,27 +436,28 @@ code {
   
     }
     @media(max-width:768px) {
+
       .brand{
         padding-left: 0px;
-        font-size: 0px;
-        font-weight: 70;
+        font-size: 10px;
+        font-weight: 700;
       }
       .bare{
         padding-right: 100px;
         font-weight: 700;
-        font-size: 15px;
+        font-size: 10px;
       }
        .btnlien{
-        position: absolute; 
-         left: 10px; 
-         top: 200px;
+        position: relative; 
+        /* margin-block-end: end; */
+        left: 90px;
         } 
        .navbar{
         margin-bottom: 100px;
        }
        .login{
          background-color: #252B42;
-         font-size: 15px;
+         font-size: 10px;
          border: none;
          font-weight: bold;
        }
@@ -566,6 +567,139 @@ code {
     }
     
       }
+
+      @media(max-width:912px) {
+
+        .brand{
+          padding-left: 0px;
+          font-size: 10px;
+          font-weight: 700;
+        }
+        .bare{
+          padding-right: 100px;
+          font-weight: 700;
+          font-size: 10px;
+        }
+         .btnlien{
+          position: relative; 
+          /* margin-block-end: end; */
+          left: 90px;
+          } 
+         .navbar{
+          margin-bottom: 100px;
+         }
+         .login{
+           background-color: #252B42;
+           font-size: 10px;
+           border: none;
+           font-weight: bold;
+         }
+         .join{
+          background-color: #23A6F0;
+          /* border-radius: 5px; */
+         }
+         .welcome{
+          font-size: 20px;
+          text-decoration: none;
+         }
+         .textnav{
+          font-size: 20px;
+         }
+         .quote{
+          background-color: #23A6F0;
+          font-weight: 700px;
+         }
+         .learn{
+          background-color: #252B42;
+          color: #23A6F0;
+          border: 1px solid #23A6F0;
+         }
+         .hr{
+          color: red;
+          width: 50px; 
+          height: 50px; 
+         }
+         /* ==============packages========================= */
+         .hre{
+          color: white;
+          width: 50px;
+         }
+         .img1{
+          position: relative;
+          bottom: 0px;
+          left: 0px;
+        }
+        .img2{
+          position: relative;
+          left: 0px;
+          bottom: 0px;
+        }
+        .tiltepack{
+          font-weight: 100;
+        }
+        .textpack{
+          font-size: 20px;
+        }
+        .btnpack{
+          background-color: white;
+          border: none;
+          color: blue;
+        }
+        
+        .vert{
+          position: relative;
+          left: 0px;
+          bottom: 0px;
+        }
+        .rouge{
+          position: absolute;
+          left: 0px;
+          bottom: 0px;
+        } 
+        /* =========================Education============================== */
+      
+      .btnedu{
+        background-color: white;
+        border: none;
+        color: blue;
+      }
+       .tag{
+        position: relative;
+        bottom: 110px;
+        right: 220px;
+      }
+      .ceur{
+        position: relative;
+        bottom: 40px;
+        right: 140px;
+        background-color: white;
+        border-radius: 50%;
+      }
+      .panie{
+        position: relative;
+        top: 125px;
+        right: 215px;
+        background-color: white;
+        border-radius: 50%;
+      }
+      .vu{
+        position: relative;
+        bottom: 40px;
+        right: -20px;
+        background-color: white;
+        border-radius: 50%;
+      } 
+      .morle {
+        background-color: #23A6F0;
+        color: white;
+        /* border-radius: 25%; */
+        border: none;
+      }
+      .une{
+        margin: 0px !important;
+      }
+      
+        }
    /* .imag{
     width: 100%;
    } */
